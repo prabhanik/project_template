@@ -21,7 +21,6 @@ Following this directory structure
     |   |--models                         <- Trained model files that can be read into R or Python
     |
     |--required
-    |   |--requirements.txt               <- The required libraries for reproducing the Python environment
     |   |--requirements.r                 <- The required libraries for reproducing the R environment
     |
     |
